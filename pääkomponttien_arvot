@@ -1,0 +1,44 @@
+PC1
+NOUN             0.378320
+Number=Plur      0.335519
+Person=1        -0.311958
+PronType=Prs    -0.295077
+Number=Sing     -0.288709
+PRON            -0.256867
+Case=Nom         0.203535
+Person=2        -0.200987
+Voice=Act       -0.198329
+ADJ              0.152241
+root            -0.150983
+Person=3         0.147609
+Tense=Past      -0.141941
+PROPN           -0.129827
+conj             0.128208
+VerbForm=Fin    -0.123127
+Voice=Pass       0.118303
+VerbForm=Part    0.117682
+ADV             -0.112539
+advmod          -0.102802
+dtype: float64
+
+PC2
+Number=Sing     0.594150
+Number=Plur    -0.566989
+Person=1       -0.187847
+Case=Nom        0.173340
+Person=3        0.166086
+NOUN            0.158267
+ADP             0.135741
+PronType=Rel    0.126409
+case            0.120393
+root           -0.117632
+Voice=Act      -0.116795
+PronType=Prs   -0.109850
+VERB           -0.108897
+Person=2       -0.096422
+X              -0.094448
+obj            -0.089390
+cop             0.088332
+AUX             0.087010
+PRON           -0.082294
+ADV            -0.079491
